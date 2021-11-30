@@ -1,12 +1,16 @@
-# 自动获取IP地址网络设置
+## 目录
+* [自动获取IP地址网络设置](#自动获取IP地址网络设置)
+* [静态IP地址网络设置](#静态IP地址网络设置)
+
+### 自动获取IP地址网络设置
 
 1.  进入ifcfg-ens33配置文件
-```
+```shell
 vi /etc/sysconfig/network-scripts/ifcfg-ens33
 ```
 
 2. ifcfg-ens33文件内容
-```
+```shell
 #网卡类型(Ethernet:以太网)  
 TYPE=Ethernet  
 #代理方式(none:关闭状态)  
@@ -33,27 +37,27 @@ IPV6_ADDR_GEN_MODE=stable-privacy
 NAME=ens33  
 #通用唯一识别码,每一个网卡都会有,不能重复  
 UUID=a8a20814-3813-4dcf-bec0-df39618b08cf  
-#网卡设备名称,必须和**NAME**值一样  
+#**网卡设备名称,必须和NAME值一样**
 DEVICE=ens33  
-#是否开机启动(yes:是)  
-ONBOOT=<span style="color:red">yes</span>
+#**是否开机启动(yes:是)**
+ONBOOT=yes
 ```
 
 3. 重启网卡  
-```
+```shell
 systemctl restart network
 ```
 
 
-# 静态IP地址网络设置
+### 静态IP地址网络设置
 
 1.  进入ifcfg-ens33配置文件
-```
+```shell
 vi /etc/sysconfig/network-scripts/ifcfg-ens33
 ```
 
 2. ifcfg-ens33文件内容
-```
+```shell
 #网卡类型(Ethernet:以太网)  
 TYPE=Ethernet  
 #代理方式(none:关闭状态)  
@@ -82,21 +86,21 @@ NAME=ens33
 UUID=a8a20814-3813-4dcf-bec0-df39618b08cf  
 #网卡设备名称,必须和**NAME**值一样  
 DEVICE=ens33  
-#是否开机启动(yes:是)  
-ONBOOT=<span style="color:red">yes</span>  
-#本机IP  
-<span style="color:red">IPADDR=192.168.137.129</span>  
-#子网掩码  
-<span style="color:red">NETMASK=255.255.255.0</span>  
-#默认网关  
-<span style="color:red">GATEWAY=192.168.137.2</span>  
-#DNS1  
-<span style="color:red">DNS1=8.8.8.8</span>  
-#DNS2  
-<span style="color:red">DNS2=114.114.114.114</span>
+#**是否开机启动(yes:是)**
+ONBOOT=yes
+#**本机IP**
+IPADDR=192.168.137.129
+#**子网掩码**
+NETMASK=255.255.255.0  
+#**默认网关**
+GATEWAY=192.168.137.2
+#**DNS1**
+DNS1=8.8.8.8
+#**DNS2**
+DNS2=114.114.114.114
 ```
 
 3. 重启网卡  
-```
+```shell
 systemctl restart network
 ```
