@@ -63,7 +63,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Iv1.a0acbdb6937e3fc7                            #生成的clientID
-  clientSecret: 570ed6cf6c7a428bc914e1c6cf1d6660d8896d4f    #生成的clientSecret
+  clientSecret: 4cd20e190f82495a435fdad7b3ac5c873fe81a54    #生成的clientSecret
   repo: zhanglibo610.github.io    #仓库名称
   owner: zhanglibo610    #github用户名
   admin: zhanglibo610
