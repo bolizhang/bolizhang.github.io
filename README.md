@@ -5,4 +5,8 @@
 [![](https://img.shields.io/github/stars/zhanglibo610/zhanglibo610.github.io.svg?style=social&label=Star)](https://github.com/zhanglibo610/zhanglibo610.github.io)
 [![](https://img.shields.io/github/forks/zhanglibo610/zhanglibo610.github.io.svg?style=social&label=Fork)](https://github.com/zhanglibo610/zhanglibo610.github.io)
 
-### [查看博客戳这里 👆](http://zhanglibo610.github.io)
+## [查看博客戳这里 👆](http://zhanglibo610.github.io)
+
+#### [Linux CentOS网络配置](https://zhanglibo610.github.io/2021/11/30/Linux-CentOS-%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE/)
+* #### [自动获取IP地址网络设置](https://zhanglibo610.github.io/2021/11/30/Linux-CentOS-%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE/#%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96ip%E5%9C%B0%E5%9D%80%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE)
+* #### [静态IP地址网络设置](https://zhanglibo610.github.io/2021/11/30/Linux-CentOS-%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE/#%E9%9D%99%E6%80%81ip%E5%9C%B0%E5%9D%80%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE)
