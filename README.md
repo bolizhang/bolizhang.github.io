@@ -12,3 +12,5 @@
 * #### [静态IP地址网络设置](https://zhanglibo610.github.io/2021/11/30/Linux-CentOS-7%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE/#%E9%9D%99%E6%80%81ip%E5%9C%B0%E5%9D%80%E7%BD%91%E7%BB%9C%E8%AE%BE%E7%BD%AE)
 
 #### [Linux CentOS 7安装MySQL80](https://zhanglibo610.github.io/2021/12/01/Linux-CentOS-7%E5%AE%89%E8%A3%85MySQL80/)
+
+#### [Linux-CentOS-7安装MongDB5.0.4](https://zhanglibo610.github.io/2021/12/02/Linux-CentOS-7%E5%AE%89%E8%A3%85MongDB5.0.4/)
