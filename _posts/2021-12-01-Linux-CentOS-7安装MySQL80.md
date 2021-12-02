@@ -1,3 +1,20 @@
+---
+layout:     post
+title:      Linux CentOS 7安装MySQL80
+subtitle:   MySQL
+date:       2021-12-01
+author:     ZhangLibo
+header-img:
+catalog: 	 true
+tags:
+    - Linux
+    - CentOS
+    - CentOS 7
+    - MySQL
+    - MySQL安装
+---
+
+
 1.  下载MySQL80
 ```shell
 wget https://repo.mysql.com/mysql80-community-release-el7-4.noarch.rpm

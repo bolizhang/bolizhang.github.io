@@ -1,3 +1,21 @@
+---
+layout:     post
+title:      Linux CentOS 7网络配置
+subtitle:   Linux
+date:       2021-11-30
+author:     ZhangLibo
+header-img:
+catalog: 	 true
+tags:
+    - Linux
+    - CentOS
+    - CentOS 7
+    - 网络配置
+    - 自动IP网络设置
+    - 静态IP网络设置
+---
+
+
 ## 目录
 * [自动获取IP地址网络设置](#自动获取ip地址网络设置)
 * [静态IP地址网络设置](#静态ip地址网络设置)

@@ -1,3 +1,20 @@
+---
+layout:     post
+title:      Linux CentOS 7安装MongoDB 5.0.4
+subtitle:   Mongo
+date:       2021-12-02
+author:     ZhangLibo
+header-img:
+catalog: 	 true
+tags:
+    - Linux
+    - CentOS
+    - CentOS 7
+    - Mongo
+    - Mongo安装
+---
+
+
 1.  下载MongoDB5.0.4
 ```shell
 wget https://repo.mongodb.org/yum/redhat/7/mongodb-org/5.0/x86_64/RPMS/mongodb-org-server-5.0.4-1.el7.x86_64.rpm
