@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Linux CentOS 7安装docker
+title:      Linux CentOS 7安装Docker
 subtitle:   Docker
 date:       2021-12-03
 author:     ZhangLibo
