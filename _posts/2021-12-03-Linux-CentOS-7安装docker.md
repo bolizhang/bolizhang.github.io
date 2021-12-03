@@ -12,6 +12,8 @@ tags:
     - CentOS 7
     - Docker
     - Docker安装
+    - Portainer
+    - Docker-compose
 ---
 
 
