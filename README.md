@@ -14,3 +14,7 @@
 #### [Linux CentOS 7安装MySQL80](https://zhanglibo610.github.io/2021/12/01/Linux-CentOS-7%E5%AE%89%E8%A3%85MySQL80/)
 
 #### [Linux-CentOS-7安装MongDB5.0.4](https://zhanglibo610.github.io/2021/12/02/Linux-CentOS-7%E5%AE%89%E8%A3%85MongDB5.0.4/)
+
+#### [Linux-CentOS-7安装PostgreSQL14.1](https://zhanglibo610.github.io/2021/12/02/Linux-CentOS-7%E5%AE%89%E8%A3%85PostgreSQL14.1/)
+
+#### [Linux-CentOS-7安装Redis6.2.6](https://zhanglibo610.github.io/2021/12/02/Linux-CentOS-7%E5%AE%89%E8%A3%85PostgreSQL14.1/)
