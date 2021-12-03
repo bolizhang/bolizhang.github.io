@@ -97,3 +97,13 @@ docker pull docker.io/portainer/portainer
 ```shell
 docker run -d -p 9000:9000 --restart=always -v /var/run/docker.sock:/var/run/docker.sock --name prtainer-test docker.io/portainer/portainer
 ```
+
+9. 安装Docker-compose
+```shell
+#下载
+curl -L https://get.daocloud.io/docker/compose/releases/download/v2.1.1/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+#目录授权
+chmod +x /usr/local/bin/docker-compose
+#版本查看
+docker-compose version
+```
