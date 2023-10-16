@@ -3,7 +3,7 @@ layout:     post
 title:      Linux CentOS 7网络配置
 subtitle:   Linux
 date:       2021-11-30
-author:     ZhangLibo
+author:     LiboZhang
 header-img:
 catalog: 	 true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      Linux CentOS 7安装MySQL80
 subtitle:   MySQL
 date:       2021-12-01
-author:     ZhangLibo
+author:     LiboZhang
 header-img:
 catalog: 	 true
 tags:
