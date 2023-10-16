@@ -3,7 +3,7 @@ layout:     post
 title:      Linux CentOS 7安装Kibana
 subtitle:   Kibana
 date:       2021-12-03
-author:     LiboZhang
+author:     Zhang.Libo
 header-img:
 catalog: 	 true
 tags:

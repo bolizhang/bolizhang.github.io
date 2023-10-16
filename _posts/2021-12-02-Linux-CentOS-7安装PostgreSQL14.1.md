@@ -3,7 +3,7 @@ layout:     post
 title:      Linux CentOS 7安装PostgreSQL14.1
 subtitle:   PostgreSQL
 date:       2021-12-02
-author:     LiboZhang
+author:     Zhang.Libo
 header-img:
 catalog: 	 true
 tags:

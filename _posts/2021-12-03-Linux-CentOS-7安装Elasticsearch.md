@@ -3,7 +3,7 @@ layout:     post
 title:      Linux CentOS 7安装Elasticsearch
 subtitle:   Elasticsearch
 date:       2021-12-03
-author:     LiboZhang
+author:     Zhang.Libo
 header-img:
 catalog: 	 true
 tags:
